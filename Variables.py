@@ -9,3 +9,11 @@ a, b, c = 1, 2, 3
 print(a)  # Output: 1
 print(b)  # Output: 2
 print(c)  # Output: 3
+
+# assignment operation
+
+value1 = 10
+final_value = value1 + 5
+print(final_value)  # Output: 15
+# Here, value1 is assigned 10, and final_value is calculated as value1 + 5, resulting in 15.
+print(type(final_value))  # Output: <class 'int'>, indicating final_value is
