@@ -25,11 +25,10 @@ print(2/3)
 print(type(2/3))
 print(64%7)
 # math function 
-    #   a. round(): Yeh kisi number ko round karta hai.
-    print(round(3.1))  # Output: 3
-    print(round(3.9))  # Output: 4
+#   a. round(): Yeh kisi number ko round karta hai.
+print(round(3.1))  # Output: 3
+print(round(3.9))  # Output: 4
 
-    print(round(2/3, 2)) # output = 0.67 so its float
+print(round(2/3, 2)) # output = 0.67 so its float
         #  b. abs(): Yeh kisi number ka absolute value return karta hai.
-    print(ads(-3))  # Output: 3
-
+print(ads(-3))  # Output: 3
