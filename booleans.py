@@ -41,5 +41,5 @@ amazon_cart[0] = "laptop"  # Index 0 ko change kiya
 print(amazon_cart)  # Output: ["laptop", "sunglasses", "toys", "grapes"]
 
 
-
+# practice today -------------
 
