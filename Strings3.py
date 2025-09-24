@@ -8,8 +8,10 @@ print(text)  # Output: Hi, hello there
 text = '''Hi, hello there
 multiline string
 with an emoji face'''
-print(text)  # Output: Hi, hello there
-
+# print(text)  # Output: Hi, hello there
+                # multiline string
+                # with an emoji face
+ 
 username = "super_coder"
 password = "super_secret"
 print(username, password)  # Output: super_coder super_secret
