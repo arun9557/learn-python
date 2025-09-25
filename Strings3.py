@@ -80,3 +80,7 @@ print(selfish[::])     # Output: 01234567 (pura string, step 1)
 
 
 
+text = "  Hello World  "
+print(text.upper())         # Output: HELLO WORLD
+print(text.strip())         # Output: Hello World
+print(text.replace("World", "Python"))  # Output:   Hello Python

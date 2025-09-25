@@ -1,8 +1,5 @@
-# ist we have learnign about string 
+is_active = True
+is_closed = False
 
-fname = "satya"
-lname = "dekhixta"
-age = 17 #integer
-
-full_name = fname +" " + lname + " " +"my age is " + str(age) 
-print(full_name) 
+print(is_active)  # Output: True
+print(is_closed)  # Output: False
