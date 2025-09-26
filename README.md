@@ -53,4 +53,4 @@ This repository contains my learning journey of Python basics. Each file covers 
 1. Install Python on your system
 2. Open command prompt or terminal
 3. Run any file using the command `python filename.py` (example: `python day1.py`)
-next big big python 
+next big big python  ..........................................................................
